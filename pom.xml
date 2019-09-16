@@ -8,7 +8,7 @@
     <parent>
         <groupId>org.scijava</groupId>
         <artifactId>pom-scijava</artifactId>
-        <version>26.0.0</version>
+        <version>27.0.1</version>
         <relativePath />
     </parent>
 
@@ -67,10 +67,10 @@
     </ciManagement>
 
     <properties>
-        <main-class>ImageJSONBGSubtract</main-class>
+        <main-class>ImageJSON</main-class>
         <license.licenseName>GPLv3</license.licenseName>
         <license.copyrightOwners>Rolf Harkes</license.copyrightOwners>
-        <license.projectName>Temporal median background subtraction for pre-processing of large SMLM datasets</license.projectName>
+        <license.projectName>ImageJSON</license.projectName>
     </properties>
 
     <repositories>
